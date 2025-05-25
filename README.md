@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @valentypo
-- 👀 I’m interested in Anime
-- 🌱 I’m currently learning CSS
+- 🌱 I’m currently learning Computer Science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
