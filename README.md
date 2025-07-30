@@ -1,5 +1,5 @@
 # 💫 About Me:
-👯 I’m open to collaborating on competitions and exciting projects  <br>🌱 Currently diving into Fullstack Web Development**<br>💬 Feel free to ask me about anything<br>⚡ Fun fact: I enjoy working out and staying active :)<br>
+👯 I’m open to collaborating on competitions and exciting projects  <br>🌱 Currently diving into Fullstack Web Development<br>💬 Feel free to ask me about anything<br>⚡ Fun fact: I enjoy working out and staying active :)<br>
 
 
 ## 🌐 Socials:
